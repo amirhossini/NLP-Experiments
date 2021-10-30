@@ -1,6 +1,6 @@
 """
 Project:__ Intent Recognition
-Sub-prj:__ Parametric Evaluation - _number of labels & data fraction_
+Sub-prj:__ Parametric Evaluation - _number of labels & data instances_
 Experm:__ Distilbert-base-uncased
 Status:__ Version 2.6
     - Developed Callnack function for calculation of f1_score, precision and recall
@@ -8,7 +8,7 @@ Status:__ Version 2.6
     - Compilation is set out of loop
     - Full experiment is run
 Contact:__ Amir Hossini
-Dev Dat:__ Oct 29, 2021
+Dev Date:__ Oct 29, 2021
 """
 
 ## Libraries
