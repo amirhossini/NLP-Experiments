@@ -7,8 +7,6 @@ Status:__ Version 2.6
     - Reconfigured for instance level sampling
     - Compilation is set out of loop
     - Full experiment is run
-Contact:__ Amir Hossini
-Dev Date:__ Oct 29, 2021
 """
 
 ## Libraries
