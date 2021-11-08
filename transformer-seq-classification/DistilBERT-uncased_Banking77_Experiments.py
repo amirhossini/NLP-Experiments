@@ -1,5 +1,5 @@
 """
-Project:__ Intent Recognition
+Project:__ Text Classification
 Sub-prj:__ Parametric Evaluation - _number of labels & data instances_
 Experm:__ Distilbert-base-uncased
 Status:__ Version 2.6
