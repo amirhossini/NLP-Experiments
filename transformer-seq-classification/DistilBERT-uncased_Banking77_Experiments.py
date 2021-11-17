@@ -50,8 +50,8 @@ fl_test         = '../datasets/banking77/test.csv'
 checkpoint      ='distilbert-base-uncased'
 
 experiment_grid = {
-    'n_labels'  : [3,4,8,16,32,64],
-    'n_train_inst': [3,4,8,16,32,64]
+    'n_labels'  : [3],
+    'n_train_inst': [3]
 }
 
 seed = 99
@@ -63,11 +63,6 @@ class Metrics(Callback):
     def __init__(self, validation_data):
         super(Metrics, self).__init__()
         self.validation_data = validation_data
-
-    def on_train_begin(self, logs={}):
-        self.val_f1s = []
-        self.val_recalls = []
-        self.val_precisions = []
 
     def on_epoch_end(self, epoch, logs={}):
         val_predict = np.argmax(tf.nn.softmax(self.model.predict(self.validation_data[0]).logits), 1)
