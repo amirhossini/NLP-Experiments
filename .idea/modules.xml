@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Intent-Recognition.iml" filepath="$PROJECT_DIR$/.idea/Intent-Recognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NLP-Experiments.iml" filepath="$PROJECT_DIR$/.idea/NLP-Experiments.iml" />
     </modules>
   </component>
 </project>
