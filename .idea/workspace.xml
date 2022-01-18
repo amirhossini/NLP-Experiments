@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d92ca78-012f-4c72-b097-19c0561e1418" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Intent-Recognition.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="7d92ca78-012f-4c72-b097-19c0561e1418" name="Changes" comment="Pycharm DistilBERT results added">
+      <change afterPath="$PROJECT_DIR$/transformer-seq-classification/DistilBERT_Big_Matrix64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer-seq-classification/.ipynb_checkpoints/DistilBERT-uncased_Banking77_Experiments-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformer-seq-classification/.ipynb_checkpoints/DistilBERT-uncased_Banking77_Experiments-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transformer-seq-classification/DistilBERT-uncased_Banking77_Experiments.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformer-seq-classification/DistilBERT-uncased_Banking77_Experiments.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,11 +45,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637441141345</updated>
-      <workItem from="1637441142980" duration="322000" />
+      <workItem from="1637441142980" duration="3576000" />
+      <workItem from="1638160244264" duration="10000" />
+      <workItem from="1639422683828" duration="12000" />
+      <workItem from="1639688457650" duration="150000" />
     </task>
+    <task id="LOCAL-00001" summary="Pycharm test">
+      <created>1637441757233</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637441757233</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pycharm DistilBERT results added">
+      <created>1639688513692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639688513692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pycharm test" />
+    <MESSAGE value="Pycharm DistilBERT results added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pycharm DistilBERT results added" />
   </component>
 </project>
